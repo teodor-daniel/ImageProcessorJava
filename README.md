@@ -7,3 +7,9 @@ An interesting Java application designed for basic image processing, specificall
 1. **Clone the repository** and navigate to the source directory.
 2. **Compile** the Java files.
 3. **Run** the Main class and follow the on-screen prompts to select the image file and desired operations.
+
+### 📹 Video:
+- [Video Presentation](https://youtu.be/iGs_aHwCgHs)
+
+## TO DO:
+*Add a GUI using javafx.*
