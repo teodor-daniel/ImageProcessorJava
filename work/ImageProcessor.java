@@ -1,3 +1,5 @@
+package work;
+
 import java.awt.image.BufferedImage;
 
 public abstract class ImageProcessor {

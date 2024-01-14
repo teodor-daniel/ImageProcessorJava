@@ -1,3 +1,5 @@
+package work;
+
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
@@ -5,11 +7,11 @@ public class ZoomOut extends ImageProcessor {
     private int factor;
 
     static {
-        System.out.println("ZoomOut class loaded!");
+        System.out.println("work.ZoomOut class loaded!");
     }
 
     {
-        System.out.println("New ZoomOut instance created!");
+        System.out.println("New work.ZoomOut instance created!");
     }
 
     public ZoomOut() {
